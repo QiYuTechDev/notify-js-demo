@@ -1,0 +1,6 @@
+{
+  "name": "notify-js-demo",
+  "dependencies": {
+    "qiyu-notify": "^0.1.0"
+  }
+}
