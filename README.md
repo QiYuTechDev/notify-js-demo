@@ -1,2 +1,3 @@
-# notify-js-demo
-Demo for use notify js SDK
+# Notify JS Demo
+
+Demo for use qiyu-notify js SDK
